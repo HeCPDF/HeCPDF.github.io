@@ -1,0 +1,1 @@
+[Install unc0ver(ver.8.0.2)](itms-services:///?action=download-manifest&url=https://HeCPDF.github.io/IPAs/unc0ver_v8.0.2.plist)
